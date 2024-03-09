@@ -13,8 +13,6 @@ This is my React Movies and TV Shows surfing website project.
 
 ## Project Overview
 
-## Project Overview
-
 Welcome to Movix! This React front-end website is designed to provide a user-friendly platform for browsing movies and TV shows. Whether you're looking for the latest trending content or seeking recommendations based on your preferences, our website offers an intuitive and visually appealing experience.
 
 ### Key Features
