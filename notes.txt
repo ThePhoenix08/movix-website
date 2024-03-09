@@ -1,0 +1,6 @@
+fix scroll
+dark light systemdefault mode toggle
+where to watch
+episodes, seasons
+advanced info on hover: ratings -> vote count, 
+fix thumbnails absent, put fallback thumbanail image
