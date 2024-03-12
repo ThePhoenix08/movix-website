@@ -1,4 +1,4 @@
-# Project Title
+# Movix Web App
 
 This is my React Movies and TV Shows surfing website project.
 
